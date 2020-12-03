@@ -1,18 +1,21 @@
 ---
 description: 'null'
 seo-description: 'null'
-seo-title: Documentación de Adobe Experience Cloud Device Co-op
-title: Documentación de Adobe Experience Cloud Device Co-op
+seo-title: Documentación de Device Co-op de Adobe Experience Cloud
+title: Documentación de Device Co-op de Adobe Experience Cloud
 uuid: ec951e20-8736-4d42-b5e5-3e9abfc6820d
 translation-type: tm+mt
 source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
+workflow-type: tm+mt
+source-wordcount: '148'
+ht-degree: 44%
 
 ---
 
 
-# Documentación de Adobe Experience Cloud Device Co-op{#adobe-experience-cloud-device-co-op-documentation}
+# Documentación de Device Co-op de Adobe Experience Cloud{#adobe-experience-cloud-device-co-op-documentation}
 
-La [!DNL Adobe Experience Cloud] [!DNL Device Co-op] es una cooperativa digital en la que los clientes participantes comparten información de vínculos de dispositivos. Los datos [!DNL Experience Cloud][!DNL Device Co-op] se procesan para formar clústeres de dispositivos. Estos clústeres representan un grupo de dispositivos utilizados por una persona desconocida. El [!DNL Device Co-op] comparte estos clústeres entre sus miembros, lo que les ayuda a ofrecer a sus clientes experiencias valiosas y coherentes entre dispositivos.
+The [!DNL Adobe Experience Cloud] [!DNL Device Co-op] is a digital cooperative where participating customers share device link information. Los datos [!DNL Experience Cloud][!DNL Device Co-op] se procesan para formar clústeres de dispositivos. Estos clústeres representan un grupo de dispositivos utilizados por una persona desconocida. El [!DNL Device Co-op] comparte estos clústeres entre sus miembros, lo que les ayuda a ofrecer a sus clientes experiencias valiosas y coherentes entre dispositivos.
 
 <!-- <a id="section_535A849B2BF14221BD78C968CC02732D"></a> -->
 
