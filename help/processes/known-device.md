@@ -6,72 +6,75 @@ title: Dispositivos conocidos
 uuid: 53c21105-45b1-4bed-a473-d3ccc4bae965
 translation-type: tm+mt
 source-git-commit: 4f972a4ae3f0c5ee11b21876bd8a6966cad90371
+workflow-type: tm+mt
+source-wordcount: '571'
+ht-degree: 1%
 
 ---
 
 
-# Known devices{#known-devices}
+# Dispositivos conocidos{#known-devices}
 
 Acerca de los dispositivos conocidos en Device Graph.
 
-Device Graph opera con el concepto de *`known device`*. Se trata de un dispositivo que un cliente emplea para interactuar con una marca.
+En Device Graph, tenemos el concepto de un *`known device`*. Un dispositivo conocido es un dispositivo que un cliente utiliza para interactuar con su marca.
 
 >[!NOTE]
 >
->En el [!DNL Adobe Experience Cloud Device Co-op], términos como *`device`*, *`person`*, *`identity`* etc. tienen significados específicos. Por ejemplo, &quot;dispositivo&quot; puede referirse a hardware físico, como un teléfono o tableta, y a una aplicación que se ejecuta en dicho hardware. Consulte las definiciones en el [glosario](../glossary.md#glossgroup-0f47d7fbd76c4759801f565f341a386c).
+>En el [!DNL Adobe Experience Cloud Device Co-op], términos como *`device`*, *`person`*, *`identity`* etc. tienen significados específicos. Por ejemplo, &quot;dispositivo&quot; puede referirse a hardware físico como un teléfono o una tablet y a las aplicaciones que se ejecutan en ese hardware. Consulte las definiciones en el [glosario](../glossary.md#glossgroup-0f47d7fbd76c4759801f565f341a386c) .
 
-## Supporting goals with the known device {#section-80deae33660e4280ac65c659ceff5601}
+## Objetivos de compatibilidad con el dispositivo conocido {#section-80deae33660e4280ac65c659ceff5601}
 
-El concepto de dispositivo conocido sirve a algunos objetivos esenciales para la creación y mantenimiento de un programa [!DNL Device Co-op] efectivo. Un dispositivo conocido es aquel del que un miembro de [!DNL Device Co-op] tiene conocimiento por medio de alguna interacción con un consumidor (p. ej., por una visita a un sitio web o por el uso de una aplicación móvil). Based on these actions, the [!DNL Device Graph] links the known devices of a [!DNL Device Co-op] member to devices contributed by other [!DNL Device Co-op] members. Estos vínculos pueden ser [determinísticos o probabilísticos](../processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931). This benefits [!DNL Device Co-op] members because they receive:
+El concepto de dispositivo conocido admite algunos objetivos esenciales para la creación y el mantenimiento de un [!DNL Device Co-op] programa eficaz. Un dispositivo conocido es aquel del que un [!DNL Device Co-op] miembro conoce por alguna interacción con un consumidor (por ejemplo, una visita al sitio o mediante una aplicación móvil). En función de estas acciones, el [!DNL Device Graph] vincula los dispositivos conocidos de un [!DNL Device Co-op] miembro con los dispositivos que otros [!DNL Device Co-op] miembros han contribuido. Estos vínculos pueden ser [determinísticos o probabilísticos](../processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931). Esto beneficia a [!DNL Device Co-op] los miembros porque reciben:
 
-* Más datos acerca de sus dispositivos conocidos.
-* Nueva información acerca de otros dispositivos vinculados.
+* Más datos sobre sus dispositivos conocidos.
+* Nueva información sobre otros dispositivos vinculados.
 
 ![](assets/known-device.png)
 
-[!DNL Device Graph] no proporciona información acerca de clústeres de dispositivos de los que un miembro de Device Co-op no tiene conocimiento.
+El [!DNL Device Graph] no proporcionará información sobre clústeres de dispositivos que un miembro de Device Co-op no haya visto.
 
-## Device Co-op goals {#section-75aea5a102d54733aae2a7c6ee9ec6c7}
+## Objetivos de Device Co-op {#section-75aea5a102d54733aae2a7c6ee9ec6c7}
 
-Three main goals animate the [!DNL Device Co-op]. Son:
+Tres objetivos principales animan el [!DNL Device Co-op]. Se incluyen:
 
-* **Escala:** compartir el máximo número de posibles vínculos procedentes de distintos casos de uso.
-* **Justicia:** asegurar que cada miembro de [!DNL Device Co-op] se beneficia de manera proporcionada a su contribución.
+* **Escala:** Comparta el número máximo de vínculos posibles en una variedad de casos de uso.
+* **Equidad:** Asegurar que cada miembro de las [!DNL Device Co-op] prestaciones sea proporcional a sus contribuciones.
 
-* **Confianza del consumidor:** mantener y fomentar la confianza del consumidor asegurando que su experiencia entre dispositivos involucre marcas que ya conoce y en las que confía.
+* **Confianza del consumidor:** Mantener y fomentar la confianza de los consumidores asegurándose de que la experiencia entre dispositivos de los consumidores involucre marcas que ya conocen y en las que confían.
 
-## Scale and the known device {#section-67f734109762457ca62ec306284ea082}
+## Escalar y el dispositivo conocido {#section-67f734109762457ca62ec306284ea082}
 
-Los siguientes métodos son las formas más comunes en que un dispositivo se califica como un dispositivo conocido. Dados estos métodos, los miembros de [!DNL Device Co-op] tendrán casi siempre al menos un dispositivo conocido. Esto abunda en el objetivo de proporcionar la máxima escala a todos los miembros de [!DNL Device Co-op].
+Los siguientes métodos son las formas más comunes en que un dispositivo se califica como un dispositivo conocido. Dados estos métodos, los miembros casi siempre tendrán al menos un dispositivo conocido. [!DNL Device Co-op] Esto apoya el objetivo de proporcionar la máxima escala a todos los miembros del [!DNL Device Co-op].
 
-**Orgánico**
+**Orgánica**
 
-* Visita de un cliente a su sitio web o uso de su aplicación. Es una cualificación con datos de primera mano.
-* Captación de clientes mediante un sistema CRM.
+* Desde la visita de un cliente a su sitio o mediante la aplicación. Se trata de la calificación de datos de origen.
+* A través de los clientes incorporados desde un sistema CRM.
 
 **Marketplace**
 
-* Compra de datos de segmentos en Audience Marketplace.
-* Compra de datos a un proveedor de datos de terceros.
+* Comprar datos de segmentos del Audience Marketplace.
+* De la compra de datos a un proveedor de datos de terceros.
 
 **Publicidad**
 
-Obtención de inventario en una subasta y servicio de un anuncio al dispositivo. El dispositivo se vuelve conocido si dicho anuncio contiene un píxel de [!DNL Audience Manager].
+Ganando el inventario en una subasta y enviando una publicidad a un dispositivo. El dispositivo se convierte en un dispositivo conocido si ese anuncio contiene un [!DNL Audience Manager] píxel.
 
-## Known devices and fairness use cases {#section-0543188729d845d6b95db70b8b25e9f8}
+## Dispositivos conocidos y casos de uso justos {#section-0543188729d845d6b95db70b8b25e9f8}
 
-Members of the [!DNL Device Co-op] get links commensurate with their contributions to the [!DNL Device Graph]. Las empresas que contribuyen con muchos dispositivos a [!DNL Device Graph] reciben más vínculos que los miembros que solo aportan unos pocos. Consideramos que esto ayuda a lograr que [!DNL Device Co-op] sea justo para todos sus miembros. Veamos cómo funciona con los casos de uso grande y pequeño siguientes.
+Los miembros del [!DNL Device Co-op] grupo obtienen vínculos proporcionales a sus contribuciones al [!DNL Device Graph]. Las compañías que contribuyen con muchos dispositivos a la [!DNL Device Graph] recepción reciben más vínculos que los miembros que contribuyen con sólo unos pocos. Creemos que esto ayuda a que todos sus miembros sean [!DNL Device Co-op] justos. Veamos cómo funciona esto con los casos de uso grandes y pequeños que se describen a continuación.
 
 **Marca A: caso de uso grande**
 
-En este ejemplo, Marca A tiene 100 visitantes en su sitio web cada mes y comienza una nueva campaña de marca entre dispositivos. For simplicity, assume the [!DNL Device Graph] knows all of the visitors to Brand A are linked to 1 additional device. Esto significa que Marca A podría alcanzar otros 100 dispositivos. Additionally, the [!DNL Device Graph] contains about 200 devices linked together.
+En este ejemplo, Marca A tiene 100 visitantes de sitio al mes y inicio una nueva campaña de marca entre dispositivos. Para simplificar, supongamos que [!DNL Device Graph] sabe que todos los visitantes de la marca A están vinculados a 1 dispositivo adicional. Esto significa que Marca A podría alcanzar otros 100 dispositivos. Además, [!DNL Device Graph] contiene unos 200 dispositivos vinculados entre sí.
 
 <table id="table_78C38DC522F94BC38C1DB73740C058AC"> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Dispositivos conocidos/mes </th> 
    <th colname="col2" class="entry"> Dispositivos vinculados recibidos de Device Co-op </th> 
-   <th colname="col3" class="entry"> Dispositivos totales para la campaña </th> 
+   <th colname="col3" class="entry"> Total de dispositivos para Campaña </th> 
   </tr>
  </thead>
  <tbody> 
@@ -83,16 +86,16 @@ En este ejemplo, Marca A tiene 100 visitantes en su sitio web cada mes y comienz
  </tbody> 
 </table>
 
-**Marca B: caso de uso pequeño**
+**Marca B: Caso de uso pequeño**
 
-En este ejemplo, Marca B tiene 100 visitantes en su sitio web cada mes y comienza una nueva campaña de marca entre dispositivos. For simplicity, assume the [!DNL Device Graph] knows all of the visitors to Brand B are linked to 50 additional devices. Esto significa que Marca B podría alcanzar 150 dispositivos. Additionally, the [!DNL Device Graph] contains about 1,000 devices linked together.
+En este ejemplo, Marca B tiene 100 visitantes de sitio al mes y inicio una nueva campaña de marca entre dispositivos. Para simplificar, supongamos que [!DNL Device Graph] sabe que todos los visitantes de la Marca B están vinculados a 50 dispositivos adicionales. Esto significa que Marca B podría llegar a 150 dispositivos. Además, [!DNL Device Graph] contiene unos 1000 dispositivos vinculados entre sí.
 
 <table id="table_A6C9CCF9C6564A89BA7060E075A8E73C"> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Dispositivos conocidos/mes </th> 
    <th colname="col2" class="entry"> Dispositivos vinculados recibidos de Device Co-op </th> 
-   <th colname="col3" class="entry"> Dispositivos totales para la campaña </th> 
+   <th colname="col3" class="entry"> Total de dispositivos para Campaña </th> 
   </tr>
  </thead>
  <tbody> 
