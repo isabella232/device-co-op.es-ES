@@ -1,26 +1,29 @@
 ---
-description: Su compañía debe cumplir estos estándares mínimos para poder realizar el inicio mediante la cooperación entre dispositivos de Experience Cloud.
-seo-description: Su compañía debe cumplir estos estándares mínimos para poder realizar el inicio mediante la cooperación entre dispositivos de Experience Cloud.
+description: Su compañía debe cumplir estos estándares mínimos antes de poder realizar el inicio mediante la cooperación entre dispositivos de Experience Cloud.
+seo-description: Su compañía debe cumplir estos estándares mínimos antes de poder realizar el inicio mediante la cooperación entre dispositivos de Experience Cloud.
 seo-title: Requisitos de afiliación
 title: Requisitos de afiliación
 uuid: 4295fa4e-1b9e-4323-bb79-48e548ca1167
 translation-type: tm+mt
 source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
+workflow-type: tm+mt
+source-wordcount: '460'
+ht-degree: 15%
 
 ---
 
 
 # Requisitos de afiliación{#membership-requirements}
 
-Su compañía debe cumplir estos estándares mínimos para poder realizar el inicio mediante la cooperación entre dispositivos de Experience Cloud.
+Su compañía debe cumplir estos estándares mínimos antes de poder realizar el inicio mediante la cooperación entre dispositivos de Experience Cloud.
 
 ## Requisitos {#section-9cbcee3c7b4e4c49b4c0e2b26aec5fe9}
 
 Habla con tu [!DNL Adobe representative to get started]. Si no tiene un representante de Adobe, visite el portal [de membresía de](http://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html) Device Co-op y complete el formulario en línea.
 
-Adobe se reserva el derecho de denegar la pertenencia de cualquier cliente potencial a la cooperación entre dispositivos de Experience Cloud si Adobe determina que la participación de un cliente potencial en Device Co-op puede (1) infringir cualquier ley aplicable; o (2) causar un riesgo importante para la seguridad o las operaciones de Adobe o de cualquiera de sus clientes.
+Adobe se reserva el derecho de denegar a Device Co-op cualquier posible pertenencia de cliente a Experience Cloud si el Adobe determina que la participación de un cliente potencial en Device Co-op puede (1) violar cualquier ley aplicable; o (2) causar un riesgo importante a la seguridad o a las operaciones de Adobe o a cualquiera de sus clientes.
 
-## Requisitos de Experience Cloud {#section-76218a50385d43e6b9323e49f598394a}
+## Requisitos del Experience Cloud {#section-76218a50385d43e6b9323e49f598394a}
 
 Debe estar habilitado para la cooperación [!DNL Adobe Experience Cloud] y utilizar las siguientes soluciones y servicios para participar en ella.
 
@@ -51,7 +54,7 @@ Requiere la versión 4.1. Consulte [AppMeasurement para Flash, Flex y AIR](https
 
 **AppMeasurement (JavaScript)**
 
-Requiere la versión 1.5.4. Consulte [AppMeasurement para Flash, Flex y AIR](https://docs.adobe.com/content/help/en/analytics/implementation/js/migrate-from-hcode.html).
+Requiere la versión 1.5.4. Consulte [AppMeasurement para Flash, Flex y AIR](https://docs.adobe.com/content/help/es-ES/analytics/implementation/js/migrate-from-hcode.html).
 
 **SDK para móvil**
 
@@ -60,12 +63,12 @@ Requisitos mínimos del SDK móvil:
 * Android versión 4.8.3.
 * iOS versión 4.8.5.
 
-Your SDK code must be enabled for the [!DNL Experience Cloud] ID service. Enable and download the latest SDK code for each app in your [Adobe Mobile Services](https://mobilemarketing.adobe.com/) account. See [Configure SDK Visitor ID Service Options](https://docs.adobe.com/content/help/en/mobile-services/using/manage-app-settings-ug/configuring-app/t-config-visitor.html).
+Your SDK code must be enabled for the [!DNL Experience Cloud] ID service. Enable and download the latest SDK code for each app in your [Adobe Mobile Services](https://mobilemarketing.adobe.com/) account. See [Configure SDK Visitor ID Service Options](https://docs.adobe.com/content/help/es-ES/mobile-services/using/manage-app-settings-ug/configuring-app/t-config-visitor.html).
 
 Para cada SDK, utilice el `visitorSyncIdentifier` método adecuado que se adapte a sus necesidades. Consulte:
 
-* [Métodos del servicio de ID de Android Experience Cloud](https://docs.adobe.com/content/help/en/mobile-services/android/experience-cloud-android/mcvid.html)
-* [Métodos del servicio de ID de iOS Experience Cloud](https://docs.adobe.com/content/help/en/mobile-services/ios/exp-cloud-ios/mcvid.html)
+* [Métodos del servicio de ID de Experience Cloud de Android](https://docs.adobe.com/content/help/en/mobile-services/android/experience-cloud-android/mcvid.html)
+* [Métodos del servicio de ID de Experience Cloud de iOS](https://docs.adobe.com/content/help/en/mobile-services/ios/exp-cloud-ios/mcvid.html)
 
 **VisitorAPI.js**
 
@@ -73,7 +76,7 @@ Requiere la versión 1.5.4.
 
 [!DNL Analytics] los clientes pueden descargar la biblioteca VisitorAPI.js desde [!DNL Code Manager]. Se encuentra en los archivos JavaScript (nuevo) o JavaScript (heredado). Póngase en contacto con [el Servicio de atención](https://helpx.adobe.com/es/marketing-cloud/contact-support.html) al cliente si no tiene acceso a [!DNL Code Manager].
 
-**Biblioteca de Destinatarios**
+**Biblioteca de destinatarios**
 
 Requiere cualquiera de las siguientes bibliotecas [!DNL Target] JavaScript:
 
