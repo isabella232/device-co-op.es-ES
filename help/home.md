@@ -1,17 +1,15 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: Documentación de Device Co-op de Adobe Experience Cloud
+description: Documentación de Device Co-op de Adobe Experience Cloud
 title: Documentación de Device Co-op de Adobe Experience Cloud
 uuid: ec951e20-8736-4d42-b5e5-3e9abfc6820d
+exl-id: 6fab66de-127c-4267-9e55-4e3b74881b10
 translation-type: tm+mt
-source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
+source-git-commit: bbb8feec60964862a58af354e2678509537e2cc5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '146'
 ht-degree: 45%
 
 ---
-
 
 # Documentación de Device Co-op de Adobe Experience Cloud{#adobe-experience-cloud-device-co-op-documentation}
 
@@ -46,4 +44,3 @@ El [!DNL Adobe Experience Cloud] [!DNL Device Co-op] es una cooperativa digital 
 <p><b>Announcements</b> </p>
 <p>Take a moment to review the <a href="about/requirements.md#concept-31d3d165d22546afbedf023d32ad3a43" format="dita" scope="local"> membership requirements</a> or <a href="https://marketing-stage.adobe.com/resources/help/en_US/mcdc/downloads/what_to_expect.pdf" format="https" scope="external"> download the information sheet</a> if you want participate or to learn more about the <span class="wintitle"> Device Co-op</span>. </p>
 -->
-
