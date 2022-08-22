@@ -3,9 +3,9 @@ keywords: adobe experience cloud;Adobe Experience Cloud;cooperación entre dispo
 title: Preguntas frecuentes sobre el fin de vida útil de Device Co-op
 description: Obtenga información sobre los planes de fin de vida útil para Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 952fe1bc73efd99812f3f2950b009ff8dcd83ae1
+source-git-commit: ab45f8f54046a31e60223a36c374dc99dc968d7c
 workflow-type: tm+mt
-source-wordcount: '1053'
+source-wordcount: '1079'
 ht-degree: 4%
 
 ---
@@ -40,7 +40,7 @@ A partir del 11 de junio de 2021, el Adobe dejará de renovarse [!DNL Device Co-
 
 ## ¿Cuál es la fecha exacta de finalización del [!DNL Device Co-op] programa?
 
-La variable [!DNL Device Co-op] el programa finalizará en 2022. El tiempo y la fecha específicos dependen de cuándo [!DNL Google] comienza a bloquear cookies de terceros.
+La variable [!DNL Device Co-op] el programa finalizará en 2022. El tiempo y la fecha específicos dependen de cuándo [!DNL Google] comienza a bloquear cookies de terceros. Se prevé que los trabajos de clausura comiencen en septiembre de 2022.
 
 ## ¿Qué aplicaciones se verán afectadas por el fin de vida útil de Device Co-op?
 
@@ -59,7 +59,7 @@ Puede usar la variable [!DNL Analytics] [Análisis entre dispositivos (CDA)](htt
 
 ### [!DNL Audience Manager]
 
-[!DNL Audience Manager] mantiene integraciones con socios de gráficos de dispositivos de terceros, incluidos [!DNL LiveRamp] y [!DNL Tapad], aunque debe establecer relaciones comerciales directamente con los socios de gráficos, para aprovechar [!DNL Audience Manager].
+[!DNL Audience Manager] mantiene integraciones con socios de gráficos de dispositivos de terceros, incluidos [!DNL LiveRamp] y [!DNL Tapad], aunque debe establecer relaciones comerciales directamente con los socios de gráficos, para aprovechar [!DNL Audience Manager]. Se espera que todos los clientes actualicen cualquier regla de combinación de Perfiles para utilizar cualquier opción que no sea la de cooperación [!DNL Device Co-op.]
 
 ### [!DNL Real-time Customer Data Platform]
 
