@@ -3,9 +3,9 @@ keywords: adobe experience cloud;Adobe Experience Cloud;cooperación entre dispo
 title: Preguntas frecuentes sobre el fin de vida útil de Device Co-op
 description: Obtenga información sobre los planes de fin de vida útil para Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: ab45f8f54046a31e60223a36c374dc99dc968d7c
+source-git-commit: 6cb8efa9090d414e1f75c78d40d1c684d04342f9
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1106'
 ht-degree: 4%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 4%
 # Preguntas frecuentes sobre el fin de vida útil de Device Co-op
 
 Este documento proporciona respuestas a las preguntas más frecuentes sobre el plan de fin de vida útil (EOL) de Adobe Experience Cloud Device Co-op. Cuando este plan entre en vigor, Adobe proporcionará un aviso anticipado en la [Notas de la versión del Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=es) y [Actualización de producto prioritaria](https://www.adobe.com/subscription/priority-product-update.html).
+
+Device Co-op era un programa que permitía a los participantes colaborar para identificar mejor a los consumidores en distintos puntos táctiles digitales, asegurando al mismo tiempo el máximo nivel de privacidad y transparencia.
 
 ## Preguntas frecuentes
 
@@ -75,7 +77,7 @@ Actualmente no hay alternativas disponibles para [!DNL Target] Porque [!DNL Targ
 
 ### Adobe Advertising Cloud
 
-[!DNL Advertising Cloud] Los clientes de ya no podrán utilizar [!DNL Device Co-op] para la medición y segmentación de audiencia entre dispositivos. con [!DNL Advertising Cloud], aún podrá aprovechar el informe de Adobe [!DNL Device Graph] asociación con [!DNL LiveRamp] seguir desempeñando estas funciones en la medida de [!DNL LiveRamp’s] capacidad y escala. Debe permitir las campañas que estén utilizando [!DNL Device Co-op] al final y, a continuación, cambie a la función [!DNL LiveRamp] proveedor de gráficos de dispositivos, o ya no aproveche la segmentación basada en personas.
+[!DNL Advertising Cloud] Los clientes de ya no podrán utilizar [!DNL Device Co-op] para la medición y segmentación de audiencia entre dispositivos. con [!DNL Advertising Cloud], aún podrá aprovechar el informe de Adobe [!DNL Device Graph] asociación con [!DNL LiveRamp] seguir desempeñando estas funciones en la medida de [!DNL LiveRamp's] capacidad y escala. Debe permitir las campañas que estén utilizando [!DNL Device Co-op] al final y, a continuación, cambie a la función [!DNL LiveRamp] proveedor de gráficos de dispositivos, o ya no aproveche la segmentación basada en personas.
 
 ## ¿Qué capacidades e implementaciones existentes pueden ayudar a prepararme para un futuro sin cookies?
 
