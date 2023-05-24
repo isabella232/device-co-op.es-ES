@@ -1,18 +1,17 @@
 ---
 description: Información general de Device Graph
-seo-description: Información general de Device Graph
-seo-title: Información general de Device Graph
+seo-description: Device Graph Overview
+seo-title: Device Graph Overview
 title: Información general de Device Graph
-translation-type: tm+mt
-source-git-commit: c4c4d5f795f974297ba3952807329d92e51ccaad
+exl-id: 5ba9caef-e148-4ccd-966b-839390c2646c
+source-git-commit: 573744525fcc00f35540af9ffec46530111940ed
 workflow-type: tm+mt
-source-wordcount: '29'
+source-wordcount: '23'
 ht-degree: 0%
 
 ---
 
-
-# Descripción general de Device Graph
+# Información general de Device Graph
 
 * [Vínculos determinísticos y probabilísticos](links.md)
 * [Uso compartido de vínculos en Device Graph](link-sharing.md)

@@ -5,6 +5,6 @@ source-wordcount: '5'
 ht-degree: 0%
 
 ---
-# Device Co-op archivado
+# Se archivó la cooperación entre dispositivos
 
-Consulte discontinuar.en
+Véase discontinuado.es
